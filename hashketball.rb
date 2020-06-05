@@ -1,6 +1,6 @@
 def game_hash
   my_data = {
-    home : {
+    home:{
       team_name : "Brooklyn Nets"
       colors : ["Black", "White"]
       players : [{
