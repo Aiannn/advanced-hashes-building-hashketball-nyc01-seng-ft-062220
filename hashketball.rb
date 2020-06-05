@@ -1,4 +1,5 @@
 def game_hash()
+  
   newHash = {}
   newHash[:home] = {}
   newHash[:away] = {}
